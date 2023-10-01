@@ -155,11 +155,15 @@ img:hover{
   }
 
   .topnav a {
+    margin-bottom: 20px;
+    margin-left: 35px;
     font-size: 25px;
   }
 
   .topnav input[type=text] {
     font-size: large;
+    margin-bottom: 20px;
+    margin-right: 95px;
   }
   
   
